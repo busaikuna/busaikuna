@@ -76,11 +76,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=busaikuna&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=busaikuna&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/busaikuna/busaikuna/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=busaikuna&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
